@@ -51,6 +51,7 @@ A simple and interactive Streamlit web application to deploy a trained machine l
    ```
 3. Run the app:
 
-  ```bash
+   ```bash
    streamlit run app.py
    ```
+   
